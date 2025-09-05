@@ -6,4 +6,4 @@ My first GUI app — coded and designed.<br>
 - ❌ Delete selected tasks
 - 💾 Auto-save to file<br>
 
-Built By - Anu.V
+ - Anu.V
